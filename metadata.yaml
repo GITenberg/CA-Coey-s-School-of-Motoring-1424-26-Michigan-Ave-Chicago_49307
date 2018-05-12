@@ -1,10 +1,16 @@
 _repo: CA-Coey-s-School-of-Motoring-1424-26-Michigan-Ave-Chicago_49307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49307-h/images/cover.jpg
 creator:
   author:
     agent_name: Coey, C. A.
     gutenberg_agent_id: '45251'
     url: http://www.gutenberg.org/2009/agents/45251
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49307#CA-Coey-s-School-of-Motoring-1424-26-Michigan-Ave-Chicago
 gutenberg_issued: '2015-06-28'
 gutenberg_type: Text
 identifiers:
