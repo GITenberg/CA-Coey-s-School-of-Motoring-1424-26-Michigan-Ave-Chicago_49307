@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: C.A. Coey's School of Motoring, 1424-26 Michigan Ave. Chicago
 url: http://www.gutenberg.org/ebooks/49307
